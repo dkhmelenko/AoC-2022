@@ -1,2 +1,2 @@
-# AoC-2022
-Solutions to the Advent of Code 2023
+# Descriptions
+Solutions to the Advent of Code 2022
